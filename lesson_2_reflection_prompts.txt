@@ -7,14 +7,19 @@ It contains only file that you likke add in one commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By add one file that was changed to staging area.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you for example whant to add new feature or experiment whit code.
 
 How do the diagrams help you visualize the branch structure?
+Now i know where is the head of a branch and think about it as parent and child node relation.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Combained files.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic marging save a lot of time and ypu do manual marge only when are somo coliision in marged files
